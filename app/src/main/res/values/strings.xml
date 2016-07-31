@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">bqtoguide</string>
+    <string name="TituloMain">¿Qué quieres hacer?</string>
+    <string name="parques_naturales">Parques Naturales</string>
+    <string name="parques_artificiales">Parques Artificiales</string>
+    <string name="centros_comerciales">Centros Comerciales</string>
+    <string name="plazas">Plazas</string>
+    <string name="restaurantes">Restaurantes</string>
+    <string name="iglesias">Iglesias</string>
+</resources>
